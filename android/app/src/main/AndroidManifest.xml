@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="flutter_provider_starter_kit"
+        android:label="Provider starter kit"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -2,7 +2,15 @@
 
 A starter kit for an flutter app with provider as a sate managment tool.
 
-To change the package_name use [rename](https://pub.dev/packages/rename) (pre installed).
+##### To change the package_name use [rename](https://pub.dev/packages/rename) (pre installed).
+
+```
+//  to set the app name
+dart run rename setAppName --value "New name"
+
+// to set the bundle id
+dart run rename setBundleId --value "com.new.bundle_id"
+```
 
 ### Widgets
 
