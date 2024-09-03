@@ -35,5 +35,6 @@ To change the package_name use [rename](https://pub.dev/packages/rename) (pre in
    - format - double
 
 2. Text styles
-3. routes with [go_router](https://pub.dev/packages/go_router)
-4. base service with [Dio](https://pub.dev/packages/dio)
+3. Debouncer
+4. routes with [go_router](https://pub.dev/packages/go_router)
+5. base service with [Dio](https://pub.dev/packages/dio)
